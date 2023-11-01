@@ -1,16 +1,21 @@
-# tugas_pertemuan_4
+# Tugas Pertemuan 4 Pengembangan Aplikasi Mobile
 
-A new Flutter project.
+Nama : Ferdi Ananta Salman
+Kelas : TI SE/5
+NIM : 20210120018
 
-## Getting Started
+Halaman Home
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Halaman Create
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Halaman Details
+
+
+Halaman Edit
+
+
+Halaman Hapus
+
+
